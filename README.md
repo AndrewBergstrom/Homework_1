@@ -8,6 +8,8 @@ Spaced out html lines to make more legible.
 Added alt tags to all images, briefly describing the picture.
 Cleaned up closing tags for images. 
 
+CSS changes:
+
 Color change to text in header. Changed color to highlight SEO.
 
 I moved .footer and .footer h2 above all the consolidated lines.
