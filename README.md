@@ -18,7 +18,7 @@
 * I moved .footer and .footer h2 above all the consolidated lines.
 
 
-## Some selectors had the same properties so those selectors were consolidated. Below you can see which selectors were consolidated:
+## Some CSS selectors had the same properties so those selectors were consolidated. Below you can see which selectors were consolidated:
 
 * Consolidated benefit-lead, benefit-brand, and benefit-cost 
 
