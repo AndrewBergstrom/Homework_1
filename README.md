@@ -20,14 +20,14 @@ I moved .footer and .footer h2 above all the consolidated lines.
 
 Some selectors had the same properties so those selectors were consolidated. Below you can see which selectors were consolidated:
 
-consolidated benefit-lead, benefit-brand, and benefit-cost 
+Consolidated benefit-lead, benefit-brand, and benefit-cost 
 
-consolidated benefit-lead h3, benefit-brand h3, and benefit-cost h3
+Consolidated benefit-lead h3, benefit-brand h3, and benefit-cost h3
 
-consolidated benefit-lead img, benefit-brand img, and benefit-cost img
+Consolidated benefit-lead img, benefit-brand img, and benefit-cost img
 
-consolidated Search Engine Optimization, Online Reputation Management, and Social Media Marketing 
+Consolidated Search Engine Optimization, Online Reputation Management, and Social Media Marketing 
 
-consolidated Search Engine Optimization img, Online Reputation Management img, and Social Media Marketing img 
+Consolidated Search Engine Optimization img, Online Reputation Management img, and Social Media Marketing img 
 
-consolidated Search Engine Optimization h2, Online Reputation Management h2, and Social Media Marketing  h2
+Consolidated Search Engine Optimization h2, Online Reputation Management h2, and Social Media Marketing  h2
