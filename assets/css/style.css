@@ -9,44 +9,41 @@
 body {
     background-color: #d9dcd6;
 }
-
-.header {
+/* consolidated a tag with header tag and added text-decoration*/
+header, a {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    text-decoration: none;
 }
 
-.header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 /* changed color to highlight SEO */
-.header h1 .seo {
+
+.seo {
     color: darksalmon;
 }
 
-.header div {
+/* removed class and div tag in html, added nav tag */
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-.header div ul {
+/* changed div tag to a nav tag and consolidated nav links */
+header nav ul, header nav ul li {
     list-style-type: none;
-}
-
-.header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
+ 
 
 p {
     font-size: 16px;
@@ -88,18 +85,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Moved footer up to be with like formats. This allows me to focus all my consolidated syntax below in their respective groups */
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
 
-/* moved footer h2 to follow footer class above*/
-.footer h2 {
-    font-size: 20px;
-}
 
 /* consolidated benefit lead, brand, and cost */
 .benefit-lead, .benefit-brand,.benefit-cost {
@@ -141,4 +127,14 @@ p {
     font-size: 36px;
 }
 
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
 
+
+footer h2 {
+    font-size: 20px;
+}

@@ -1,21 +1,30 @@
 # Homework_1
 
-## In this project I spent most of my time cleaning up the CSS style sheet. Changes made are as followed:
+## In this project I made multiple changes to the HTML and CSS. I removed classes and replaced them witht he appropriate HTML tag by following the HTML Semantics flow chart. I removed div tags and used HTML semantics to classify each section of my web page.Changes made are as followed:
 
-## HTML changes:
+# HTML changes:
+
+By removing div tags in HTML and applying new tags using HTML semantics, I was able to streamline the HTML and CSS for this webpage.
 
 * Spaced out html lines to make more legible.
+
+* Replaced multiple classes and div tags with, header, nav, figure, article, section, aside, and footer tags. This will help with Search engine optimization.
+
+Furthermore, I applied small changes to clean up image tags and make a more user friendly experience for the visually impaired by add an alternate description
 
 * Added alt tags to all images, briefly describing the picture.
 
 * Cleaned up closing tags for images. 
 
+* I removed the class footer and simply replaced the html tag with footer.
 
-## CSS changes:
+
+# CSS Changes:
+
+* Consolidated header tag with: a, nav, nav ul, and nav ul ui. Further detail in comments on Style.css sheet.
 
 * Color change to text in header. Changed color to highlight SEO.
 
-* I moved .footer and .footer h2 above all the consolidated lines.
 
 
 ## Some CSS selectors had the same properties so those selectors were consolidated. Below you can see which selectors were consolidated:
